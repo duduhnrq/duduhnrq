@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👨‍💻 Eduardo Henrique
 
-<!--
-**duduhnrq/duduhnrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Desenvolvedor Front-End`
 
-Here are some ideas to get you started:
+Olá, me chamo Eduardo Henrique, tenho 18 anos e nasci em Recife, Pernambuco. Concluí o Ensino Médio na Escola Técnica Ginásio Pernambucano, onde realizei o Ensino Técnico em Multimídia. Estou aqui para compartilhar meus projetos e Skills na área da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+<img 
+  align="left"
+  alt="HTML5"
+  title="HTML5"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="CSS3"
+  title="CSS3"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img
+  align="left"
+  alt="JS"
+  title="JS"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+          
