@@ -2,7 +2,7 @@
 
 `Desenvolvedor Front-End`
 
-Olá, me chamo Eduardo Henrique, tenho 18 anos e nasci em Recife, Pernambuco. Concluí o Ensino Médio na Escola Técnica Ginásio Pernambucano, onde realizei o Ensino Técnico em Multimídia. Estou aqui para compartilhar meus projetos e Skills na área da tecnologia.
+Olá, me chamo Eduardo Henrique, tenho 18 anos e nasci em Recife, Pernambuco. Concluí o Ensino Médio na Escola Técnica Ginásio Pernambucano, onde realizei o Ensino Técnico em Multimídia e atualmente estou cursando Análise e Desenvolvimento de Sistemas na CESAR School. Estou aqui para compartilhar meus projetos e Skills na área da tecnologia.
 
 ## 🚀 Tecnologias
 
