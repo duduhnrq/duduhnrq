@@ -2,8 +2,6 @@
 
 **`Front-End Student Developer`**
 
-<br>
-
 🌎 Olá, me chamo **Eduardo Henrique**, tenho 18 anos e nasci em Recife, Pernambuco. Concluí o Ensino Médio na Escola Técnica Ginásio Pernambucano, onde realizei o Ensino Técnico em Multimídia e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **CESAR School**. Estou aqui para compartilhar meus **projetos** e **Skills** na área da tecnologia.
 
 <a href="https://www.linkedin.com/in/eduardo-hnrque/">
@@ -28,7 +26,9 @@
 
 <br><br>
 
-## 🚀 Tecnologias
+![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduhnrq&show_icons=true&theme=transparent)
+
+## 🔥 Main
 
 <img 
   align="left"
@@ -54,6 +54,18 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
+<br><br>
+
+## 🧰 Tools
+
+<img 
+  align="left"
+  alt="VS Code"
+  title="VS Code"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
 <img
   align="left"
   alt="Git"
@@ -72,4 +84,42 @@
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduhnrq&layout=compact)
+## 📚 Currently Studying
+
+<img 
+  align="left"
+  alt="Bootstrap"
+  title="Bootstrap"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="Sass"
+  title="Sass"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br><br>
+
+## 📄 Latest Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duduhnrq&repo=to-do-list&theme=transparent)](https://github.com/duduhnrq/to-do-list/)
