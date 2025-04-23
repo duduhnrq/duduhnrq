@@ -122,4 +122,4 @@
 
 ## 📄 Latest Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duduhnrq&repo=to-do-list&theme=transparent)](https://github.com/duduhnrq/to-do-list/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duduhnrq&repo=to-do-list&theme=transparent)](https://github.com/duduhnrq/to-do-list)
