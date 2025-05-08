@@ -82,6 +82,15 @@
   src="github-mark-white.svg"
 />
 
+<img
+  align="left"
+  alt="Figma"
+  title="Figma"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+          
+
 <br><br>
 
 ## 📚 Currently Studying
