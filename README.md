@@ -131,4 +131,4 @@
 
 ## 📄 Latest Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duduhnrq&repo=currency-converter&theme=transparent)](https://github.com/duduhnrq/Siri-Stage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duduhnrq&repo=Siri-Stage&theme=transparent)](https://github.com/duduhnrq/Siri-Stage)
