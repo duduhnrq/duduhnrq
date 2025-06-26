@@ -54,6 +54,14 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
+<img 
+  align="left"
+  alt="Bootstrap"
+  title="Bootstrap"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
 <br><br>
 
 ## 🧰 Tools
@@ -94,14 +102,6 @@
 <br><br>
 
 ## 📚 Currently Studying
-
-<img 
-  align="left"
-  alt="Bootstrap"
-  title="Bootstrap"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
 
 <img 
   align="left"
