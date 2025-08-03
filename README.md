@@ -139,4 +139,4 @@
 
 ## 📄 Latest Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duduhnrq&repo=thermic-landing-page&theme=transparent)](https://github.com/duduhnrq/thermic-landing-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duduhnrq&repo=to-do-list-react&theme=transparent)](https://github.com/duduhnrq/to-do-list-react)
