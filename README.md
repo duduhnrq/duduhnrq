@@ -121,10 +121,10 @@
 
 <img 
   align="left"
-  alt="Sass"
-  title="Sass"
+  alt="Tailwind CSS"
+  title="Tailwind CSS"
   width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
 <img 
