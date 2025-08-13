@@ -2,7 +2,7 @@
 
 **`Designer UX/UI / Front-End Student Developer`**
 
-<a href="https://duduhnrq.github.io/portifolio-edu" target="blank">Meu Portifólio</a>
+<a href="https://duduhnrq.github.io/portifolio-edu" target="blank">♾️ Meu Portifólio</a>
 
 🌎 Olá, me chamo **Eduardo Henrique**, tenho 18 anos e nasci em Recife, Pernambuco. Concluí o Ensino Médio na Escola Técnica Ginásio Pernambucano, onde realizei o Ensino Técnico em Multimídia e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **CESAR School**. Estou aqui para compartilhar meus **projetos** e **Skills** na área da tecnologia.
 
