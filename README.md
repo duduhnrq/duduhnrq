@@ -58,6 +58,14 @@
 
 <img 
   align="left"
+  alt="Bootstrap"
+  title="Bootstrap"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+  align="left"
   alt="React"
   title="React"
   width="30px"
@@ -66,10 +74,10 @@
 
 <img 
   align="left"
-  alt="Bootstrap"
-  title="Bootstrap"
+  alt="Tailwind CSS"
+  title="Tailwind CSS"
   width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
 <br><br>
@@ -131,10 +139,18 @@
 
 <img 
   align="left"
-  alt="Tailwind CSS"
-  title="Tailwind CSS"
+  alt="NextJS"
+  title="NextJS"
   width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" 
+/>
+
+<img 
+  align="left"
+  alt="ViteJS"
+  title="ViteJS"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-plain.svg" 
 />
 
 <br><br>
