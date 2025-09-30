@@ -115,6 +115,14 @@
   width="30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
+
+<img
+  align="left"
+  alt="Photoshop"
+  title="Photoshop"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+/>
           
 
 <br><br>
@@ -139,18 +147,10 @@
 
 <img 
   align="left"
-  alt="NextJS"
-  title="NextJS"
+  alt="TypeScript"
+  title="TypeScript"
   width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" 
-/>
-
-<img 
-  align="left"
-  alt="ViteJS"
-  title="ViteJS"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-plain.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
 <br><br>
