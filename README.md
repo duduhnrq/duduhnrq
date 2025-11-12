@@ -2,8 +2,6 @@
 
 **`Designer UX/UI / Front-End Student Developer`**
 
-[♾️ Meu Portifólio](https://duduhnrq.github.io/portifolio-edu)
-
 🌎 Olá, me chamo **Eduardo Henrique**, tenho 18 anos e nasci em Recife, Pernambuco. Concluí o Ensino Médio na Escola Técnica Ginásio Pernambucano, onde realizei o Ensino Técnico em Multimídia e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **CESAR School**. Estou aqui para compartilhar meus **projetos** e **Skills** na área da tecnologia.
 
 <a href="https://www.linkedin.com/in/eduardo-hnrque/">
@@ -23,6 +21,16 @@
   title="Instagram"
   width="130px"
   src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+/>
+</a>
+
+<a href="https://duduhnrq.github.io/portifolio-edu">
+<img
+  align="left"
+  alt="Instagram"
+  title="Instagram"
+  width="130px"
+  src="https://img.shields.io/badge/Portifolio-EB844E.svg?style=for-the-badge&logo=Fireship&logoColor=white"
 />
 </a>
 
@@ -157,4 +165,4 @@
 
 ## 📄 Latest Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duduhnrq&repo=valcann-mars-gallery&theme=transparent)](https://github.com/duduhnrq/valcann-mars-gallery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duduhnrq&repo=clinica-manager&theme=transparent)](https://github.com/duduhnrq/clinica-manager)
