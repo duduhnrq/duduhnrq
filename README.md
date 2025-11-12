@@ -1,4 +1,4 @@
-# 👨‍💻 Eduardo Henrique
+# 👋 Olá, eu sou o Eduardo Henrique!
 
 **`Designer UX/UI / Front-End Student Developer`**
 
