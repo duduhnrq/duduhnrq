@@ -139,26 +139,10 @@
 
 <img 
   align="left"
-  alt="Python"
-  title="Python"
+  alt="NextJS"
+  title="NextJS"
   width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-  align="left"
-  alt="C"
-  title="C"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
-<img 
-  align="left"
-  alt="TypeScript"
-  title="TypeScript"
-  width="30px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <br><br>
